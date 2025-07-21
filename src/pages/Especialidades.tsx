@@ -18,13 +18,13 @@ const Especialidades = () => {
   ];
 
   const designSkills = [
-    { name: "Adobe Photoshop", percentage: 75, color: "bg-blue-500" },
-    { name: "Adobe Illustrator", percentage: 55, color: "bg-orange-500" },
-    { name: "Figma", percentage: 95, color: "bg-purple-500" }
+    { name: "Adobe Photoshop", percentage: 75, color: "bg-primary" },
+    { name: "Adobe Illustrator", percentage: 55, color: "bg-primary" },
+    { name: "Figma", percentage: 95, color: "bg-primary" }
   ];
 
   const filmSkills = [
-    { name: "Prequel", percentage: 90, color: "bg-green-500" },
+    { name: "Prequel", percentage: 90, color: "bg-primary" },
     { name: "Capcut", percentage: 100, color: "bg-primary" }
   ];
 

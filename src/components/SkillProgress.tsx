@@ -9,7 +9,7 @@ const SkillProgress = ({ skill, percentage, color = "bg-primary" }: SkillProgres
     <div className="mb-6">
       <div className="flex justify-between items-center mb-2">
         <span className="font-medium text-foreground">{skill}</span>
-        <span className="text-sm text-muted-foreground">{percentage}%</span>
+        <span className="text-sm text-primary">{percentage}%</span>
       </div>
       <div className="w-full bg-muted rounded-full h-2">
         <div
